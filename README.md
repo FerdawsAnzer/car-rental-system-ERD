@@ -1,4 +1,4 @@
-Car Rental System (Database Design - ERD & SQL)
+🚗 Car Rental System (Database Design - ERD & SQL) 📊
 
 📝 Project Overview
 This project provides the Entity-Relationship Diagram (ERD) and SQL Database Schema for a Car Rental System.
