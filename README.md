@@ -5,7 +5,7 @@ This project provides the Entity-Relationship Diagram (ERD) and SQL Database Sch
 It models the relationships between customers, cars, rentals, reservations, and employees, ensuring efficient data storage and retrieval.
 
 🏗️ Technologies Used
-Database Design & Modeling: Miro (for ERD design)
+Database Design & Modeling: draw.io(for ERD design)
 Database Management: MySQL, SQL.
 
 📂 Project Structure
